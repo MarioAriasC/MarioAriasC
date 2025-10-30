@@ -8,7 +8,25 @@ I contribute to OSS projects such as [Spring Framework](https://github.com/sprin
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=MarioAriasC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAriasC&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAriasC&theme=vue-dark&show_icons=true)
+
+### Articles
+
+[Blog](https://marioarias.hashnode.dev)
+
+### Presentations
+
+[Introducción a Scala](https://www.slideshare.net/dhaat/introduccin-a-scala)
+
+[Introduction to RxKotlin](https://speakerdeck.com/marioariasc/introduction-to-rxkotlin)
+
+[Functional Programming in Kotlin with funKTionale](https://www.youtube.com/watch?v=klakgWp1KWg)
+
+[Kotlin Coroutines](https://speakerdeck.com/marioariasc/kotlin-coroutines)
+
+[Writing an interpreter in Ruby](https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby)  
+
+
 
 <!--
 **MarioAriasC/MarioAriasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
