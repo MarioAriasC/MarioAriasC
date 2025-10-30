@@ -1,4 +1,14 @@
-## Hi there 👋
+## Mario Arias
+
+I am a Senior Software Engineer and Tech Lead with more than 20 years of experience.
+
+I have worked successfully in several industries (FinTech/Banking, Insurance, Consulting, Media and Others), company sizes (Startups to Multi Nationals), and continents(Latin America, Europe, Asia).
+
+I contribute to OSS projects such as [Spring Framework](https://github.com/spring-projects/spring-framework) and [Arrow](https://github.com/arrow-kt/arrow)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=MarioAriasC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAriasC&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MarioAriasC/MarioAriasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
