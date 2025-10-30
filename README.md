@@ -8,7 +8,7 @@ I contribute to OSS projects such as [Spring Framework](https://github.com/sprin
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=MarioAriasC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAriasC&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAriasC&theme=vue-dark&show_icons=true&hide_border=true)
 
 ### Articles
 
